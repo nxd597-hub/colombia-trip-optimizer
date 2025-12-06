@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import pulp as pl
 
+streamlit==1.29.0
+pandas==2.1.4
+pulp==2.7.0
+
 # ---------------------------
 # Helper: parse "1 to 7" style availability
 # ---------------------------
