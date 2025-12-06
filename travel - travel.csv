@@ -1,0 +1,7 @@
+From,To,Mode,Cost,Time_hours,Avail_Days
+Bogota,Medellin,Flight,14,1,1 to 7
+Medellin,Cartagena,Bus,40,12,1 to 7
+Cartagena,Santa Marta,Bus,24,4,1 to 7
+Santa Marta,Cartagena,Bus,24,4,1 to 7
+Cartagena,Medellin,Bus,45,11,1 to 7
+Medellin,Bogota,Flight,14,0.57,1 to 7
